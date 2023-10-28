@@ -43,8 +43,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - React.JS
 - Flexbox
 
-### What I Learnt
-
+### What I Learned
+- This is my way to display dynamic divider between the second, third (and so on) card but not on the last one:
 ```css
 .card {
   padding: 2em 0;
@@ -63,7 +63,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   padding-bottom: 0;
 }
 ```
-
+- How to implement dark mode via CSS:
 ```css
 @media (prefers-color-scheme: light) {
   :root {
